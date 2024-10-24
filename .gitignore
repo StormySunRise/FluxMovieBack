@@ -1,0 +1,51 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.vspscc
+*.vssscc
+
+# ASP.NET Scaffolding
+.scaffolding
+
+# C# files containing metadata and source
+*.csproj.user
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Database files
+*.mdf
+*.ldf
+*.ndf
+
+# Deployment
+publish/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Visual Studio
+.vs/
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
